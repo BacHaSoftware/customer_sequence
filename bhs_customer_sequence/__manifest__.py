@@ -17,7 +17,7 @@
         'views/res_partner_form.xml',
         'views/crm_lead_view.xml'
     ],
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     'license': 'LGPL-3',
     'installable': True,
     'application': False
