@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': "Customer Code",
+    'name': "Automatic Customer Code",
     'version': '1.0',
     'summary': """Unique Customer Code""",
     'description': """Each customer have unique number code""",
@@ -10,7 +10,6 @@
     'maintainer': 'Bac Ha Software',
     'website': "https://bachasoftware.com",
     'category': 'Sales',
-    # 'depends': ['sale_management','crm'],
     'depends': ['crm'],
     'data': [
         'views/ir_sequence_data.xml',

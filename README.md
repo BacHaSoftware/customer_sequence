@@ -8,7 +8,7 @@
     <img src="/bhs_customer_sequence/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Customer Code</h3>
+  <h3 align="center">Automatic Customer Code</h3>
 
   <p align="center">
     Automatically generate customer code when newly created. Code is only generated when the customer is a company
@@ -44,7 +44,7 @@
 
 <div align="left">
   <a href="https://github.com/BacHaSoftware/customer_sequence">
-    <img src="/bhs_customer_sequence/static/description/banner.gif" alt="Setting">
+    <img src="/bhs_customer_sequence/static/description/banner.png" alt="Setting">
   </a>
 </div>
 
