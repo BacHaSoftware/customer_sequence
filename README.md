@@ -44,7 +44,7 @@
 
 <div align="left">
   <a href="https://github.com/BacHaSoftware/customer_sequence">
-    <img src="/bhs_customer_sequence/static/description/banner.gif" alt="Setting">
+    <img src="/bhs_customer_sequence/static/description/banner.png" alt="Setting">
   </a>
 </div>
 
